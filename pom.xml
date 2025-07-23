@@ -30,6 +30,7 @@
 				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
 			</plugin>
+			<plugin>
 			<groupId>org.mule.tools.maven</groupId>
 				<artifactId>mule-maven-plugin</artifactId>
 				<version>${mule.maven.plugin.version}</version>
@@ -54,6 +55,7 @@
 					</cloudHubDeployment>
 					<classifier>mule-application</classifier>
 				</configuration>
+			</plugin>
 		</plugins>
 	</build>
 
