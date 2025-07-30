@@ -1,8 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>a247db8b-0426-40f8-adca-afb1b5bf5cc4</groupId>
-    <artifactId>test</artifactId>
-    <version>1.0.0</version>
+    <artifactId>u-fraud-api</artifactId>
+    <version>1.0.1</version>
     <packaging>mule-application</packaging>
     
     <name>test</name>
