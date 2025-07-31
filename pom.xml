@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>a247db8b-0426-40f8-adca-afb1b5bf5cc4</groupId>
     <artifactId>u-fraud-api</artifactId>
-    <version>1.0.7</version>
+    <version>1.0.8</version>
     <packaging>mule-application</packaging>
     
     <name>test</name>
@@ -29,6 +29,7 @@
                     <classifier>mule-application</classifier>
                     <cloudhub2Deployment>
                         <uri>https://anypoint.mulesoft.com</uri>
+                        <muleVersion>4.9.7</muleVersion>
                         <provider>MC</provider>
                         <environment>Sandbox</environment>
                         <target>Cloudhub-US-East-2</target>
