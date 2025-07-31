@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>a247db8b-0426-40f8-adca-afb1b5bf5cc4</groupId>
     <artifactId>u-fraud-api</artifactId>
-    <version>1.0.8</version>
+    <version>1.0.9</version>
     <packaging>mule-application</packaging>
     
     <name>test</name>
