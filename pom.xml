@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>a247db8b-0426-40f8-adca-afb1b5bf5cc4</groupId>
     <artifactId>u-fraud-api</artifactId>
-    <version>1.0.6</version>
+    <version>1.0.7</version>
     <packaging>mule-application</packaging>
     
     <name>test</name>
@@ -10,7 +10,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <mule.maven.plugin.version>4.7.0</mule.maven.plugin.version>
+        <mule.maven.plugin.version>4.4.0</mule.maven.plugin.version>
     </properties>
     
     <build>
